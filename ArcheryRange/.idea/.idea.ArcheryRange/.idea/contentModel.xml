@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\berkt\AppData\Local\JetBrains\Rider2020.3\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\berkt\AppData\Local\JetBrains\Rider2020.3\resharper-host\Local\Transient\Rider\v203\SolutionCaches\_ArcheryRange.24573127.00" t="ExcludeRecursive" />
+    <e p="D:\GitHub\julius-mini-game-archery-range\ArcheryRange" t="IncludeRecursive">
+      <e p="ArcheryRange.Scripts.csproj" t="IncludeRecursive" />
+      <e p="ArcheryRange.sln" t="IncludeFlat" />
+      <e p="Assets" t="Include">
+        <e p="ArcheryRangeProject" t="Include">
+          <e p="GameFolders" t="Include">
+            <e p="Scripts" t="Include">
+              <e p="Abstracts" t="Include">
+                <e p="Controllers" t="Include">
+                  <e p="LifeCycleController.cs" t="Include" />
+                </e>
+                <e p="Pools" t="Include">
+                  <e p="GenericPool.cs" t="Include" />
+                </e>
+                <e p="Spawners" t="Include">
+                  <e p="BaseSpawner.cs" t="Include" />
+                  <e p="CoinBaseSpawner.cs" t="Include" />
+                </e>
+              </e>
+              <e p="ArcheryRange.Scripts.asmdef" t="Include" />
+              <e p="Concretes" t="Include">
+                <e p="Combats" t="Include">
+                  <e p="Damage.cs" t="Include" />
+                  <e p="Death.cs" t="Include" />
+                  <e p="Health.cs" t="Include" />
+                  <e p="LaunchProjectile.cs" t="Include" />
+                </e>
+                <e p="Controllers" t="Include">
+                  <e p="ArrowController.cs" t="Include" />
+                  <e p="CollectableController.cs" t="Include" />
+                  <e p="EnemyController.cs" t="Include" />
+                  <e p="LineRendererController.cs" t="Include" />
+                  <e p="LineRendererTextController.cs" t="Include" />
+                  <e p="ObsticleController.cs" t="Include" />
+                  <e p="PcInputController.cs" t="Include" />
+                  <e p="PlayerController.cs" t="Include" />
+                  <e p="ProjectileController.cs" t="Include" />
+                  <e p="RedDragonController.cs" t="Include" />
+                </e>
+                <e p="Cores" t="Include">
+                  <e p="PersistentObject.cs" t="Include" />
+                </e>
+                <e p="Draws" t="Include">
+                  <e p="LineDraw.cs" t="Include" />
+                </e>
+                <e p="Enum" t="Include">
+                  <e p="DirectionEnum.cs" t="Include" />
+                  <e p="ShapesEnum.cs" t="Include" />
+                </e>
+                <e p="ExtensionMethods" t="Include">
+                  <e p="CollisionExtensionMethods.cs" t="Include" />
+                </e>
+                <e p="GameManager" t="Include">
+                  <e p="GameManager.cs" t="Include" />
+                </e>
+                <e p="Helper" t="Include">
+                  <e p="InGameVariables.cs" t="Include" />
+                </e>
+                <e p="MathHelper" t="Include">
+                  <e p="MathHelper.cs" t="Include" />
+                </e>
+                <e p="Movements" t="Include">
+                  <e p="ArrowMover.cs" t="Include" />
+                  <e p="Jump.cs" t="Include" />
+                  <e p="MotionsSet.cs" t="Include" />
+                  <e p="Mover.cs" t="Include" />
+                  <e p="OnGround.cs" t="Include" />
+                </e>
+                <e p="Pools" t="Include">
+                  <e p="ObsticlePool.cs" t="Include" />
+                  <e p="ProjectilePool.cs" t="Include" />
+                  <e p="RedDragonPool.cs" t="Include" />
+                </e>
+                <e p="Spawners" t="Include">
+                  <e p="ArrowSpawner.cs" t="Include" />
+                  <e p="CollectableSpawner.cs" t="Include" />
+                  <e p="EnemySpawner.cs" t="Include" />
+                  <e p="ObsticleSpawner.cs" t="Include" />
+                  <e p="ProjectileSpawner.cs" t="Include" />
+                </e>
+                <e p="UIs" t="Include">
+                  <e p="DisplayHealth.cs" t="Include" />
+                  <e p="DisplayScore.cs" t="Include" />
+                  <e p="GameCanvas.cs" t="Include" />
+                  <e p="GameOverPanel.cs" t="Include" />
+                  <e p="LoadingCanvas.cs" t="Include" />
+                  <e p="MenuCanvas.cs" t="Include" />
+                  <e p="MenuPanel.cs" t="Include" />
+                  <e p="StartCounter.cs" t="Include" />
+                </e>
+              </e>
+            </e>
+          </e>
+        </e>
+      </e>
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="Packages" t="ExcludeRecursive" />
+      <e p="Temp\Bin" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>
